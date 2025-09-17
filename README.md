@@ -1,0 +1,1 @@
+İts about all .net core skills
